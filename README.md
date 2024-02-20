@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **aimeeu/aimeeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# What I do now
+
+I create developer-focused content such as tutorials and user guides, as well as API and CLI reference material. 
+
+# What I did before
+
+I was a software developer and open source lead for many years before moving into full-time tech writing.
