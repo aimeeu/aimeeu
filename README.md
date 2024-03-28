@@ -22,14 +22,17 @@ I create developer-focused content such as tutorials and user guides, as well as
 I was a software developer and open source lead for many years before moving into full-time tech writing. I've always been in a docs-as-code environment.
 
 Open source projects:
+
+- Acumos AI
+- Apache Cassandra (tiny update to the docs)
+- Kubernetes
 - OpenStack
 - OPNFV
-- Acumos AI
-- Kubernetes
 - Spinnaker
 - vCluster
 
  Commercial products: 
+ 
  - Armory Continuous Deployment, an enterprise version of open source Spinnaker; on-prem and managed versions.
  - Armory Continuous Deployment-as-a-Service, a SaaS tool for declarative deployment to Kuberntes and AWS Lambda; created from scratch, **not** based on an existing open source project.
  - vCluster Platform, an enterprise version of vCluster.
