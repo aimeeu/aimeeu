@@ -35,8 +35,7 @@ Open source projects:
  Commercial products: 
  
  - Armory Continuous Deployment, an enterprise version of open source Spinnaker; on-prem and managed versions.
- - Armory Continuous Deployment-as-a-Service, a SaaS tool for declarative deployment to Kuberntes and AWS Lambda; created from scratch, **not** based on an existing open source project.
- - vCluster Platform, an enterprise version of vCluster.
+ - Armory Continuous Deployment-as-a-Service, a DevOps SaaS tool for declarative deployment to Kuberntes and AWS Lambda; created from scratch, **not** based on an existing open source project. This product is no longer available as of March, 2024. Harness acquired Armory in December, 2023, and marked Armory's products EOL.
+ - vCluster Platform, an enterprise product for managing vCluster instances.
 
-
-  See my [LinkedIn profile](https://www.linkedin.com/in/aimee-ukasick/) for career details and my [website](https://aimeeukasick.net/docs/samples/) for my writing samples. 
+See my [LinkedIn profile](https://www.linkedin.com/in/aimee-ukasick/) for career details and my [website](https://aimeeukasick.net/docs/samples/) for my writing samples. 
