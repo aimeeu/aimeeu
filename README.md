@@ -30,6 +30,7 @@ Open source projects:
 - OPNFV
 - Spinnaker
 - vCluster
+- GitLab (small docs and handbook updates)
 
  Commercial products: 
  
