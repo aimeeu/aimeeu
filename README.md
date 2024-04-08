@@ -25,12 +25,12 @@ Open source projects:
 
 - Acumos AI
 - Apache Cassandra (tiny update to the docs)
+- GitLab (small docs and handbook updates)
 - Kubernetes
 - OpenStack
 - OPNFV
 - Spinnaker
 - vCluster
-- GitLab (small docs and handbook updates)
 
  Commercial products: 
  
