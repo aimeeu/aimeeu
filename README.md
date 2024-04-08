@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 -->
 # What I do now
 
-I create developer-focused content such as tutorials and user guides, as well as API and CLI reference material. 
+I create:
+
+- Developer-focused content that empowers developers to be self-sufficient. 
+- Tutorials and user guides that exceed user expectations.
+- API and CLI reference material that is clear and concise. 
 
 # What I did before
 
-I was a software developer and open source lead for many years before moving into full-time tech writing. I've always been in a docs-as-code environment.
+I was a software developer and open source lead for many years before moving into full-time tech writing. I've always worked in a docs-as-code environment.
 
 Open source projects:
 
