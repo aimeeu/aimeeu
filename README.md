@@ -41,6 +41,6 @@ Open source projects:
  - Armory Continuous Deployment, an enterprise version of open source Spinnaker; on-prem and managed versions.
  - Armory Continuous Deployment-as-a-Service, a DevOps SaaS tool for declarative deployment to Kuberntes and AWS Lambda; created from scratch, **not** based on an existing open source project. This product is no longer available as of March, 2024. Harness acquired Armory in December, 2023, and marked Armory's products EOL.
  - vCluster Platform, an enterprise product for managing vCluster instances.
- - [HashiCorp Nomad]([https://developer.](https://developer.hashicorp.com/nomad/docs), a simple and flexible scheduler and orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale.
+ - [HashiCorp Nomad](https://developer.hashicorp.com/nomad/docs), a simple and flexible scheduler and orchestrator to deploy and manage containers and non-containerized applications across on-prem and clouds at scale.
 
 See my [LinkedIn profile](https://www.linkedin.com/in/aimee-ukasick/) for career details and my [website](https://aimeeukasick.net/docs/samples/) for my writing samples. 
